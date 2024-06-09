@@ -1,5 +1,5 @@
 ### 1. Generate and Deploy AMI Images using **Packer** in **AWS** cloud provider.
-### 2. With **Terraform** generate EC2 Instances based on the Packer images, additional configure a Load Balancer and a private lab.test Zone for DNS on **AWS** cloud provider.
+### 2. With **Terraform** generate EC2 Instances based on the Packer images, additional configure a Load Balancer and a Private Zone **lab.test** for DNS on **AWS** cloud provider.
 
 ---
 ![Diagram](/imgs/Diagram.jpg)

@@ -1,5 +1,5 @@
 ### 1. Generar y Desplegar Imágenes AMI usando **Packer** en el proveedor de nube **AWS**.
-### 2. Con **Terraform** generar Instancias EC2 basadas en las imágenes de Packer, adicional configurar un Balanceador de Carga y una Zona privada lab.test para DNS en el proveedor de nube **AWS**.
+### 2. Con **Terraform** generar Instancias EC2 basadas en las imágenes de Packer, adicional configurar un Balanceador de Carga y una Zona privada **lab.test** para DNS en el proveedor de nube **AWS**.
 
 ---
 ![Diagrama](/imgs/Diagram.jpg)
