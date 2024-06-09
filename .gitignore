@@ -1,0 +1,3 @@
+# Ignore .infracost directory
+.infracost/
+.terraform/
