@@ -1,6 +1,6 @@
 #* Module for the creation of all the necessary resources for the Virtual Private Cloud (VPC)
 
-#* Recurso para crear una VPC con soporte de DNS y Hostnames
+#* Resource for creating a VPC with DNS and Hostnames support
 resource "aws_vpc" "vpc_main" {
   cidr_block           = var.virginia_cidr
   enable_dns_support   = true
